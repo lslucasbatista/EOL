@@ -1,0 +1,85 @@
+.main-banner, .sec-btn {
+    background-color: #20470E;
+}
+    .sec-btn::before {
+        background-color: #90B289
+    }
+
+    .Social-midea a:hover {
+        color: #20470E !important;
+    }
+
+li a:hover, .main-navigation ul li.active > a {
+    color: #20470E;
+}
+
+.h2-subtitle{
+    color:#FFF
+}
+
+.subtitle-line {
+    background-color:#FFF
+}
+
+::-webkit-scrollbar-thumb {
+    background: #20470E;
+}
+
+
+::selection {
+    color: #ffffff;
+    background-color: #90B289;
+}
+
+.banner-years {
+    border-color: #90B289;
+}
+
+.banner-years-content .h2-title {
+    color: #90B289;
+}
+
+.sec-btn-claro {
+    background-color: #90B289;
+}
+
+    .sec-btn::before {
+        background-color: #FFF
+    }
+
+.sec-btn.btn-1:hover, .title-1 {
+    color: #20470E !important;
+}
+
+.banner-btn .sec-btn.btn-2::before {
+    background-color: #90B289;
+}
+
+.sec-btn.btn-2 {
+    color: #20470E !important;
+}
+
+.banner-content p {
+    color: #FFF;
+}
+
+
+.h2-title, .h2-subtitle {
+    color: #000;
+}
+
+.slick-dots li button:hover, .slick-dots li.slick-active button, .about-img-1::before {
+    background: #90B289 !important;
+}
+
+.subtitle-line{
+    background-color:#000
+}
+
+.main-counter::before {
+    background-color: rgb(32, 71, 14, 0.8);
+}
+
+.counter-number::before {
+    border: 5px solid #90B289;
+}
